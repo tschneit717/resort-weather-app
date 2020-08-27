@@ -2,7 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+
+# Front End React Project
+
+In the front-end project directory, you can run:
 
 ### `npm start`
 
@@ -66,3 +69,25 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# Back End Express Project
+
+## Start project
+
+1. Open Terminal
+2. cd to `react-backend`
+3. Follow steps under server
+
+---
+
+## How to run server 
+
+### MacOS: 
+``
+  PORT=3001 node bin/www
+``
+
+### Windows: 
+``
+  set PORT=3001 && node bin/www
+``
