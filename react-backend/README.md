@@ -7,14 +7,8 @@
 
 ---
 
-# How to run server 
+## How to run server 
 
-## MacOS: 
 ``
   PORT=3001 node bin/www
-``
-
-## Windows: 
-``
-  set PORT=3001 && node bin/www
 ``
